@@ -1,0 +1,20 @@
+h1{
+  color:brown;
+}
+
+body{
+  background-color: lightblue;
+  color:brown;
+  position: center;
+  text-align: center;
+}
+
+ul{
+  list-style-type: none;
+  text-align: left;
+  color: white;
+}
+
+a{
+  text-decoration: none;
+}
